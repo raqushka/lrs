@@ -4,5 +4,5 @@ var $plugins =
 [
 {"name":"GALV_LayerGraphicsMZ","status":true,"description":"(v.1.2) Create graphic layers for parallax mapping, fog, etc. View documentation for plugin commands.","parameters":{"fixPosition":"true"}},
 {"name":"Cae_SlopeMove","status":true,"description":"v1.1 - Makes left-right movement go up/down slopes.","parameters":{"Up Slope Regions":"[\"8\"]","Down Slope Regions":"[\"10\"]","Move Through":"true","Face Sideways":"true","Add Save Data":"true","--- Advanced ---":"","Save Property: Up":"slopeMoveRegUp","Save Property: Down":"slopeMoveRegDown"}},
-{"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"1","Event Restrict":"0","All Restrict":"1","Player Allow":"5 8 10","Event Allow":"0","All Allow":"0"}}
+{"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"1","Event Restrict":"0","All Restrict":"1","Player Allow":"5 8 10 11","Event Allow":"0","All Allow":"0"}}
 ];
