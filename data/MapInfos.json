@@ -10,5 +10,8 @@ null,
 {"id":8,"expanded":false,"name":"Ship_hold1_1","order":5,"parentId":0,"scrollX":832,"scrollY":672},
 {"id":9,"expanded":false,"name":"Ship_dining_room1_1","order":8,"parentId":0,"scrollX":619,"scrollY":399},
 {"id":10,"expanded":false,"name":"Ship_captain_room1_1","order":6,"parentId":0,"scrollX":619,"scrollY":368},
-{"id":11,"expanded":false,"name":"Сornfield1_1","order":7,"parentId":0,"scrollX":619,"scrollY":712}
+{"id":11,"expanded":false,"name":"Сornfield1_1","order":7,"parentId":0,"scrollX":619,"scrollY":712},
+{"id":12,"expanded":true,"name":"Town1_1","order":10,"parentId":0,"scrollX":2758.6666666666665,"scrollY":1269.3333333333333},
+{"id":13,"expanded":false,"name":"Island_Shore","order":11,"parentId":0,"scrollX":1092,"scrollY":865.3333333333334},
+{"id":14,"expanded":true,"name":"Abandoned_warehouse1_1","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604}
 ]
