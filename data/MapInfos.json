@@ -12,5 +12,6 @@ null,
 {"id":10,"expanded":false,"name":"Ship_captain_room1_1","order":6,"parentId":0,"scrollX":619,"scrollY":368},
 {"id":11,"expanded":false,"name":"Сornfield1_1","order":7,"parentId":0,"scrollX":619,"scrollY":712},
 {"id":12,"expanded":true,"name":"Town1_1","order":9,"parentId":0,"scrollX":2509.3333333333335,"scrollY":1154.6666666666667},
-{"id":13,"expanded":false,"name":"Island_Shore","order":10,"parentId":0,"scrollX":1055.111111111111,"scrollY":864.8888888888889}
+{"id":13,"expanded":false,"name":"Island_Shore","order":10,"parentId":0,"scrollX":1081.3333333333333,"scrollY":865.3333333333334},
+{"id":14,"expanded":false,"name":"Island_statues","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":5673.333333333333}
 ]
