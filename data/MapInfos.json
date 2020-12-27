@@ -13,5 +13,6 @@ null,
 {"id":11,"expanded":false,"name":"Сornfield1_1","order":8,"parentId":0,"scrollX":1092,"scrollY":633.3333333333334},
 {"id":12,"expanded":true,"name":"Town1_1","order":10,"parentId":0,"scrollX":2758.6666666666665,"scrollY":1269.3333333333333},
 {"id":13,"expanded":false,"name":"Island_Shore","order":11,"parentId":0,"scrollX":1092,"scrollY":865.3333333333334},
-{"id":14,"expanded":true,"name":"Abandoned_warehouse1_1","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604}
+{"id":14,"expanded":true,"name":"Abandoned_warehouse1_1","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":15,"expanded":false,"name":"Island_statues","order":12,"parentId":0,"scrollX":1092,"scrollY":5673.333333333333}
 ]
